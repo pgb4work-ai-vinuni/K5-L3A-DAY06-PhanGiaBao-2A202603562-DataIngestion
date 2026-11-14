@@ -1,5 +1,6 @@
 __pycache__/
 .venv/
+venv/
 .env
 *.pyc
 
@@ -8,3 +9,7 @@ __pycache__/
 .DS_Store
 .pytest_cache/
 *.sqlite
+
+# PDF gốc (CC BY-NC-ND, không được phân phối lại) -> tải theo data/manifest.json
+data/raw/
+starter/data/raw/
