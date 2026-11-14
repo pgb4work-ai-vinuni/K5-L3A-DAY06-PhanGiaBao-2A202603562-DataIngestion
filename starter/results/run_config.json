@@ -1,0 +1,149 @@
+{
+  "started_at_utc": "2026-11-14T04:22:51+00:00",
+  "python": "3.14.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "libraries": {
+    "pymupdf": "2.1",
+    "sentence-transformers": "5.7.0",
+    "torch": "2.15.0",
+    "transformers": "5.22.2",
+    "psycopg": "3.3.8"
+  },
+  "counted_pages": 283,
+  "pdf_sha256": {
+    "wb_ar_2023": "a980c96c423b67478ddc08e490ec514c65b6252856b9c5182a3d664f8396dd22",
+    "wb_ar_2024": "4c4b484777eeb3f957165cb6aa9346bb9c092df34fb45c949b8ae80c4edeba89",
+    "wbg_ar_2025": "086cd283370ec74912281638c34200c3a2e0cd4fc81c49732cf1cc1f2b9ea2e6"
+  },
+  "embedding": {
+    "provider": "sentence-transformers (local)",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "dimensions": 384,
+    "max_seq_length": 128,
+    "normalize_embeddings": true,
+    "query_prefix": null,
+    "document_prefix": null,
+    "device": "cpu",
+    "cost_usd": 0.0
+  },
+  "model_load_s": 15.05,
+  "vector_store": {
+    "type": "PostgreSQL + pgvector",
+    "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "table": "chunks",
+    "metric": "cosine distance (<=>), score = 1 - distance",
+    "search": "exact (no ANN index)",
+    "allowed_filters": [
+      "year",
+      "document_id"
+    ]
+  },
+  "strategies": {
+    "A": {
+      "chunking": "fixed_size",
+      "chunk_size": 500,
+      "overlap": 50,
+      "filter": false,
+      "hypothesis": "Baseline: cửa sổ cố định cắt ngang câu/đoạn -> coherence thấp hơn, evidence dễ bị tách qua 2 chunk."
+    },
+    "B": {
+      "chunking": "by_paragraph",
+      "chunk_size": 500,
+      "overlap": 0,
+      "filter": false,
+      "hypothesis": "Cắt theo đoạn với cùng giới hạn 500 ký tự giữ trọn ý -> coherence và Evidence Hit@3 cao hơn A."
+    },
+    "C": {
+      "chunking": "by_paragraph (same chunks and vectors as B)",
+      "chunk_size": 500,
+      "overlap": 0,
+      "filter": true,
+      "hypothesis": "Lọc year (người dùng cho trước) loại các đoạn cùng chủ đề của 2 báo cáo năm khác -> tăng Hit@3 ở câu có filter, câu khác giống B."
+    }
+  },
+  "top_k": 3,
+  "selection_rule": "Chốt trước khi truy xuất, chỉ xét DEV: Evidence Hit@3 cao nhất; hòa -> Hit@1 cao hơn; hòa -> ít chunk hơn; hòa -> cấu hình đơn giản hơn (không cần filter). Test chỉ báo cáo 1 lần sau khi chọn, không dùng để sửa cấu hình.",
+  "selected_on_dev": "C",
+  "timing_s": {
+    "load_and_extract": 6.35,
+    "A": {
+      "embed_s": 34.12,
+      "upsert_s": 0.54
+    },
+    "B": {
+      "embed_s": 35.2,
+      "upsert_s": 0.53
+    },
+    "C": {
+      "embed_s": 0.0,
+      "upsert_s": 0.54
+    },
+    "retrieval_total_s": 3.33
+  },
+  "reload_check": {
+    "A": {
+      "chunks": 1719,
+      "rows_after_first_upsert": 1719,
+      "rows_after_reload": 1719,
+      "deleted_obsolete_first_upsert": 0,
+      "ok": true
+    },
+    "B": {
+      "chunks": 2066,
+      "rows_after_first_upsert": 2066,
+      "rows_after_reload": 2066,
+      "deleted_obsolete_first_upsert": 0,
+      "ok": true
+    },
+    "C": {
+      "chunks": 2066,
+      "rows_after_first_upsert": 2066,
+      "rows_after_reload": 2066,
+      "deleted_obsolete_first_upsert": 0,
+      "ok": true
+    }
+  },
+  "coherence_positions": [
+    {
+      "page_id": "wb_ar_2023:p4",
+      "char_pos": 662
+    },
+    {
+      "page_id": "wb_ar_2023:p39",
+      "char_pos": 1073
+    },
+    {
+      "page_id": "wb_ar_2023:p72",
+      "char_pos": 842
+    },
+    {
+      "page_id": "wb_ar_2023:p106",
+      "char_pos": 1284
+    },
+    {
+      "page_id": "wb_ar_2024:p16R",
+      "char_pos": 557
+    },
+    {
+      "page_id": "wb_ar_2024:p35R",
+      "char_pos": 1199
+    },
+    {
+      "page_id": "wbg_ar_2025:p8R",
+      "char_pos": 1157
+    },
+    {
+      "page_id": "wbg_ar_2025:p30R",
+      "char_pos": 961
+    },
+    {
+      "page_id": "wbg_ar_2025:p50L",
+      "char_pos": 1388
+    },
+    {
+      "page_id": "wbg_ar_2025:p65R",
+      "char_pos": 873
+    }
+  ]
+}

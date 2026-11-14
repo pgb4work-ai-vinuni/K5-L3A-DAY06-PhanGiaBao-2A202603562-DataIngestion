@@ -1,0 +1,388 @@
+strategy,position,page_id,char_pos,chunk_id,chunk_chars,chunk_text,coherence_0_2,reason
+A,1,wb_ar_2023:p4,662,fixed500o50:wb_ar_2023:p4:001,500,"
+from financial services
+
+49 million
+people provided with access
+to better water sources
+
+371 million
+students reached
+
+135 million
+women covered by social
+safety net programs
+
+59 million
+people provided with
+access to the internet
+
+147 million
+tons in greenhouse gas
+emissions reductions
+expected per year
+
+191 million
+people provided with
+access to better
+sanitation services
+
+506 million
+people who received
+essential health services
+
+68 million
+individuals, households,
+businesses, and others
+ben",1,Danh sách số liệu kết quả; bắt đầu giữa nhãn ('from financial services') và cắt giữa từ ở cuối ('ben'); phần lớn cặp số–nhãn vẫn đọc được.
+A,2,wb_ar_2023:p39,1073,fixed500o50:wb_ar_2023:p39:002,500," and giving women better access to social
+protection and public services. In the state of Rio de Janeiro, nearly 5,300 women
+farmers transitioned to more productive and sustainable farming technologies. To
+help overcome women’s disadvantages in land access, over 1,300 land titles in the
+state of Piaui were issued to small-scale farmers in the names of both spouses and
+in the woman’s name for farmers without a spouse.
+
+We also supported efforts to address gender-based violence across the country.",1,"Bắt đầu giữa câu (' and giving women…'), mất chủ thể/bối cảnh; các câu sau về Rio de Janeiro và Piaui vẫn hiểu được."
+A,3,wb_ar_2023:p72,842,fixed500o50:wb_ar_2023:p72:001,500,"civil society groups, and
+public sector institutions to generate development solutions and improve service
+delivery. The Bank works to make these tools accessible while ensuring that vulnerable communities gain digital literacy and bridging the digital gender divide.
+
+Strengthening public institutions and improving governance
+
+Governments play a crucial role in protecting citizens and shaping a better future
+for them, particularly during times of crisis. The World Bank works with countries to
+st",0,"Bắt đầu giữa câu, không rõ ai 'generate development solutions'; cắt ở cuối ('to st') ngay sau tiêu đề mục mới → không giữ được ý nào trọn vẹn."
+A,4,wb_ar_2023:p106,1284,fixed500o50:wb_ar_2023:p106:002,500,"1
+
+Industry, Trade, and Services 1,963 2,712 2,174 2,317 2,304
+
+Information and Communications
+Technologies
+
+779 1,202 1,151 1,245 1,689
+
+Public Administration 3,109 4,252 5,572 6,194 7,921
+
+Social Protection 2,163 4,185 6,352 4,792 4,075
+
+Transportation 1,709 2,132 2,367 5,167 2,303
+
+Water, Sanitation, and Waste Management 1,572 1,820 2,365 2,357 2,247
+
+Totala 21,932 30,365 36,028 37,727 34,245
+
+Note: Amounts are net of full terminations and cancellations relating to commitments approved in the",0,"Chỉ là các dòng của bảng, không có tên bảng và tiêu đề cột năm → các con số không diễn giải được."
+A,5,wb_ar_2024:p16R,557,fixed500o50:wb_ar_2024:p16R:001,500,"ne maintain basic
+administrative and institutional capacity, deliver
+key services, and conduct repairs in critical sectors
+including health, agriculture, housing, transport,
+and energy, and support reforms to strengthen
+fiscal management and future reconstruction.
+Resources from bilateral donors account for more
+than 90 percent of the World Bank Group-mobilized
+capital. This support has enabled the government
+to provide essential services reaching more than
+15 million Ukrainians.
+
+In February 20",1,Bắt đầu giữa từ ('ne maintain' = Ukraine) và cắt ở 'In February 20'; nội dung hỗ trợ Ukraine đoán được nhờ '15 million Ukrainians'.
+A,6,wb_ar_2024:p35R,1199,fixed500o50:wb_ar_2024:p35R:002,500,"mplementation of the FCV Strategy. In 2023, the fund
+financed 42 grants in 30 countries with a total fund
+value of $51.3 million.
+
+Middle-income countries host 58 percent of refugees,
+more than three-quarters of whom tend to stay
+for more than five years. The Global Concessional
+Financing Facility (GCFF) supports middle-income
+countries that host large numbers of refugees. In 2023,
+$159.4 million in GCFF grant funding was allocated to
+Benefiting Countries, enabling $1.1 billion in multilateral
+d",1,"Bắt đầu giữa từ ('mplementation'), 'the fund' không rõ là quỹ nào; đoạn GCFF bị cắt ở 'multilateral d'."
+A,7,wbg_ar_2025:p8R,1157,fixed500o50:wbg_ar_2025:p8R:002,500,"at or below 15%
+20 34
+that have increased collections
+
+Net greenhouse gas emissions per year (Millions of tonnes of CO2e/year) * -332M
+
+Beneficiaries with enhanced resilience to climate risks 136M 425M
+
+Hectares of terrestrial and aquatic areas under enhanced
+93M 124M
+conservation/management
+
+People provided with water, sanitation, and/or hygiene 76M 176M
+
+of which (%) is safely managed 10% 30%
+
+People with strengthened food and nutrition security 209M 296M
+
+People that benefit from improved acc",0,"Mảnh bảng Scorecard, thiếu tiêu đề cột (baseline/target) và dòng đầu bị cắt → số liệu không hiểu được."
+A,8,wbg_ar_2025:p30R,961,fixed500o50:wbg_ar_2025:p30R:002,500,"on, the World Bank Group approved a new project in
+fiscal 2025 to extend one of São Paulo’s metro lines by approximately 5
+miles. The $250 million project will benefit more than 1.3 million people,
+including 395,000 residents in the immediate vicinity. The extension is
+expected to make 192,000 additional jobs newly accessible within 60
+minutes by public transport for residents within a 2-kilometer radius of the
+new metro stations. It will also create 8,000 jobs during implementation.
+Around 200,",1,"Ý chính (dự án metro São Paulo $250M) còn nguyên nhưng mất mệnh đề mở đầu và câu cuối bị cắt ('Around 200,')."
+A,9,wbg_ar_2025:p50L,1388,fixed500o50:wbg_ar_2025:p50L:002,500,"nvestment Project Financing, which helps build
+physical and social infrastructure and develop
+institutional capacity;
+
+• Development Policy Financing, which supports policy
+and institutional reforms, including through policybased guarantees; and
+
+• Program-for-Results Financing, which links the
+disbursement of funds to the achievement of
+predefined results.
+
+In fiscal 2025, we approved 69 Development Policy
+Financing operations, totaling $23.6 billion; 49 Programfor-Results operations, of which ",1,"Bắt đầu giữa từ trong danh sách công cụ cho vay, thiếu câu dẫn; câu cuối bị cắt ('of which')."
+A,10,wbg_ar_2025:p65R,873,fixed500o50:wbg_ar_2025:p65R:001,500,"ductions provided by Gonzalo Flores, Deputy Secretary-General of ICSID.
+
+Antonio Parra, former Deputy Secretary-General of ICSID, detailed the process that
+culminated in the drafting of the ICSID Convention, which was made available for signature
+and ratification by World Bank member governments in March 1965.
+
+Zainab Ahmed, World Bank Group Executive Director and former Minister of Finance
+of Nigeria, noted that Nigeria was the first State to ratify the ICSID Convention and
+underscored the oppo",1,"Bắt đầu và kết thúc giữa từ; thiếu bối cảnh sự kiện kỷ niệm ICSID, chỉ hiểu một phần."
+B,1,wb_ar_2023:p4,662,para500:wb_ar_2023:p4:001,498,"58 million
+people provided with new
+or better electricity service
+
+96 million
+
+people with better access
+to transportation services
+
+10 million
+farmers adopting better
+agricultural technology
+
+23 million
+people benefiting
+from financial services
+
+49 million
+people provided with access
+to better water sources
+
+371 million
+students reached
+
+135 million
+women covered by social
+safety net programs
+
+59 million
+people provided with
+access to the internet
+
+147 million
+tons in greenhouse gas
+emissions",1,Bắt đầu đúng đầu mục ('58 million…') nhưng thiếu tiêu đề phần kết quả và mục cuối bị cắt ('emissions' | 'reductions expected per year' ở chunk sau).
+B,2,wb_ar_2023:p39,1073,para500:wb_ar_2023:p39:002,407,"To address these challenges, the World Bank helped increase women’s access to
+opportunities including through productive farming technologies and land titles, as
+well as by addressing the risks of violence and giving women better access to social
+protection and public services. In the state of Rio de Janeiro, nearly 5,300 women
+farmers transitioned to more productive and sustainable farming technologies.",2,"Đoạn văn trọn vẹn; 'these challenges' tham chiếu đoạn trước nhưng nội dung (hỗ trợ phụ nữ, Rio de Janeiro) tự hiểu được."
+B,3,wb_ar_2023:p72,842,para500:wb_ar_2023:p72:002,443,"Strengthening public institutions and improving governance
+
+Governments play a crucial role in protecting citizens and shaping a better future
+for them, particularly during times of crisis. The World Bank works with countries to
+strengthen the effectiveness, inclusiveness, and accountability of public institutions,
+which is essential for ensuring fair and sustainable development, particularly amid
+growing needs and tightening fiscal space.",2,"Tiêu đề mục + đoạn văn đầy đủ, tự hiểu được."
+B,4,wb_ar_2023:p106,1284,para500:wb_ar_2023:p106:002,318,"Communications
+Technologies
+
+779 1,202 1,151 1,245 1,689
+
+Public Administration 3,109 4,252 5,572 6,194 7,921
+
+Social Protection 2,163 4,185 6,352 4,792 4,075
+
+Transportation 1,709 2,132 2,367 5,167 2,303
+
+Water, Sanitation, and Waste Management 1,572 1,820 2,365 2,357 2,247
+
+Totala 21,932 30,365 36,028 37,727 34,245",0,Vẫn là các dòng bảng không có tên bảng và tiêu đề cột năm (tiêu đề nằm ở chunk trước) → không diễn giải được.
+B,5,wb_ar_2024:p16R,557,para500:wb_ar_2024:p16R:001,447,"To date, we have mobilized $42 billion in emergency
+financing to help Ukraine maintain basic
+administrative and institutional capacity, deliver
+key services, and conduct repairs in critical sectors
+including health, agriculture, housing, transport,
+and energy, and support reforms to strengthen
+fiscal management and future reconstruction.
+Resources from bilateral donors account for more
+than 90 percent of the World Bank Group-mobilized
+capital.",2,Đoạn trọn vẹn: $42 tỷ tài trợ khẩn cấp cho Ukraine và tỷ trọng nhà tài trợ song phương.
+B,6,wb_ar_2024:p35R,1199,para500:wb_ar_2024:p35R:003,460,"Middle-income countries host 58 percent of refugees,
+more than three-quarters of whom tend to stay
+for more than five years. The Global Concessional
+Financing Facility (GCFF) supports middle-income
+countries that host large numbers of refugees. In 2023,
+$159.4 million in GCFF grant funding was allocated to
+Benefiting Countries, enabling $1.1 billion in multilateral
+development bank loans on concessional terms and
+unlocking a combined total of $1.3 billion.",2,Đoạn trọn vẹn về GCFF: tỷ lệ người tị nạn ở nước thu nhập trung bình và số tiền 2023.
+B,7,wbg_ar_2025:p8R,1157,para500:wbg_ar_2025:p8R:002,497,"below 15%
+20 34
+that have increased collections
+
+Net greenhouse gas emissions per year (Millions of tonnes of CO2e/year) * -332M
+
+Beneficiaries with enhanced resilience to climate risks 136M 425M
+
+Hectares of terrestrial and aquatic areas under enhanced
+93M 124M
+conservation/management
+
+People provided with water, sanitation, and/or hygiene 76M 176M
+
+of which (%) is safely managed 10% 30%
+
+People with strengthened food and nutrition security 209M 296M
+
+People that benefit from improved access",0,"Mảnh bảng Scorecard, thiếu tiêu đề cột; chia theo đoạn không giúp được với bảng."
+B,8,wbg_ar_2025:p30R,961,para500:wbg_ar_2025:p30R:003,455,"To alleviate congestion, the World Bank Group approved a new project in
+fiscal 2025 to extend one of São Paulo’s metro lines by approximately 5
+miles. The $250 million project will benefit more than 1.3 million people,
+including 395,000 residents in the immediate vicinity. The extension is
+expected to make 192,000 additional jobs newly accessible within 60
+minutes by public transport for residents within a 2-kilometer radius of the
+new metro stations.",2,"Đoạn trọn vẹn về dự án metro São Paulo, có mệnh đề mở đầu 'To alleviate congestion'."
+B,9,wbg_ar_2025:p50L,1388,para500:wbg_ar_2025:p50L:003,418,"• Program-for-Results Financing, which links the
+disbursement of funds to the achievement of
+predefined results.
+
+In fiscal 2025, we approved 69 Development Policy
+Financing operations, totaling $23.6 billion; 49 Programfor-Results operations, of which 10 were additional
+financing totaling $12.4 billion; and 314 Investment
+Project Financing operations, of which 108 were additional
+financing, totaling $44.8 billion.",1,Đoạn phê duyệt FY2025 trọn vẹn nhưng chunk mở đầu bằng gạch đầu dòng cuối của danh sách mà thiếu câu dẫn.
+B,10,wbg_ar_2025:p65R,873,para500:wbg_ar_2025:p65R:003,383,"Zainab Ahmed, World Bank Group Executive Director and former Minister of Finance
+of Nigeria, noted that Nigeria was the first State to ratify the ICSID Convention and
+underscored the opportunity to provide technical assistance to State representatives and
+investors on important aspects to include in investment contracts, with the aim of improving
+dispute prevention and resolution.",2,Câu trọn vẹn: ai phát biểu và nội dung; thiếu bối cảnh sự kiện nhưng ý tự hiểu được.
+C,1,wb_ar_2023:p4,662,para500:wb_ar_2023:p4:001,498,"58 million
+people provided with new
+or better electricity service
+
+96 million
+
+people with better access
+to transportation services
+
+10 million
+farmers adopting better
+agricultural technology
+
+23 million
+people benefiting
+from financial services
+
+49 million
+people provided with access
+to better water sources
+
+371 million
+students reached
+
+135 million
+women covered by social
+safety net programs
+
+59 million
+people provided with
+access to the internet
+
+147 million
+tons in greenhouse gas
+emissions",1,Cùng chunk với B (C dùng lại chunk/vector của B): Bắt đầu đúng đầu mục ('58 million…') nhưng thiếu tiêu đề phần kết quả và mục cuối bị cắt ('emissions' | 'reductions expected per year' ở chunk sau).
+C,2,wb_ar_2023:p39,1073,para500:wb_ar_2023:p39:002,407,"To address these challenges, the World Bank helped increase women’s access to
+opportunities including through productive farming technologies and land titles, as
+well as by addressing the risks of violence and giving women better access to social
+protection and public services. In the state of Rio de Janeiro, nearly 5,300 women
+farmers transitioned to more productive and sustainable farming technologies.",2,"Cùng chunk với B (C dùng lại chunk/vector của B): Đoạn văn trọn vẹn; 'these challenges' tham chiếu đoạn trước nhưng nội dung (hỗ trợ phụ nữ, Rio de Janeiro) tự hiểu được."
+C,3,wb_ar_2023:p72,842,para500:wb_ar_2023:p72:002,443,"Strengthening public institutions and improving governance
+
+Governments play a crucial role in protecting citizens and shaping a better future
+for them, particularly during times of crisis. The World Bank works with countries to
+strengthen the effectiveness, inclusiveness, and accountability of public institutions,
+which is essential for ensuring fair and sustainable development, particularly amid
+growing needs and tightening fiscal space.",2,"Cùng chunk với B (C dùng lại chunk/vector của B): Tiêu đề mục + đoạn văn đầy đủ, tự hiểu được."
+C,4,wb_ar_2023:p106,1284,para500:wb_ar_2023:p106:002,318,"Communications
+Technologies
+
+779 1,202 1,151 1,245 1,689
+
+Public Administration 3,109 4,252 5,572 6,194 7,921
+
+Social Protection 2,163 4,185 6,352 4,792 4,075
+
+Transportation 1,709 2,132 2,367 5,167 2,303
+
+Water, Sanitation, and Waste Management 1,572 1,820 2,365 2,357 2,247
+
+Totala 21,932 30,365 36,028 37,727 34,245",0,Cùng chunk với B (C dùng lại chunk/vector của B): Vẫn là các dòng bảng không có tên bảng và tiêu đề cột năm (tiêu đề nằm ở chunk trước) → không diễn giải được.
+C,5,wb_ar_2024:p16R,557,para500:wb_ar_2024:p16R:001,447,"To date, we have mobilized $42 billion in emergency
+financing to help Ukraine maintain basic
+administrative and institutional capacity, deliver
+key services, and conduct repairs in critical sectors
+including health, agriculture, housing, transport,
+and energy, and support reforms to strengthen
+fiscal management and future reconstruction.
+Resources from bilateral donors account for more
+than 90 percent of the World Bank Group-mobilized
+capital.",2,Cùng chunk với B (C dùng lại chunk/vector của B): Đoạn trọn vẹn: $42 tỷ tài trợ khẩn cấp cho Ukraine và tỷ trọng nhà tài trợ song phương.
+C,6,wb_ar_2024:p35R,1199,para500:wb_ar_2024:p35R:003,460,"Middle-income countries host 58 percent of refugees,
+more than three-quarters of whom tend to stay
+for more than five years. The Global Concessional
+Financing Facility (GCFF) supports middle-income
+countries that host large numbers of refugees. In 2023,
+$159.4 million in GCFF grant funding was allocated to
+Benefiting Countries, enabling $1.1 billion in multilateral
+development bank loans on concessional terms and
+unlocking a combined total of $1.3 billion.",2,Cùng chunk với B (C dùng lại chunk/vector của B): Đoạn trọn vẹn về GCFF: tỷ lệ người tị nạn ở nước thu nhập trung bình và số tiền 2023.
+C,7,wbg_ar_2025:p8R,1157,para500:wbg_ar_2025:p8R:002,497,"below 15%
+20 34
+that have increased collections
+
+Net greenhouse gas emissions per year (Millions of tonnes of CO2e/year) * -332M
+
+Beneficiaries with enhanced resilience to climate risks 136M 425M
+
+Hectares of terrestrial and aquatic areas under enhanced
+93M 124M
+conservation/management
+
+People provided with water, sanitation, and/or hygiene 76M 176M
+
+of which (%) is safely managed 10% 30%
+
+People with strengthened food and nutrition security 209M 296M
+
+People that benefit from improved access",0,"Cùng chunk với B (C dùng lại chunk/vector của B): Mảnh bảng Scorecard, thiếu tiêu đề cột; chia theo đoạn không giúp được với bảng."
+C,8,wbg_ar_2025:p30R,961,para500:wbg_ar_2025:p30R:003,455,"To alleviate congestion, the World Bank Group approved a new project in
+fiscal 2025 to extend one of São Paulo’s metro lines by approximately 5
+miles. The $250 million project will benefit more than 1.3 million people,
+including 395,000 residents in the immediate vicinity. The extension is
+expected to make 192,000 additional jobs newly accessible within 60
+minutes by public transport for residents within a 2-kilometer radius of the
+new metro stations.",2,"Cùng chunk với B (C dùng lại chunk/vector của B): Đoạn trọn vẹn về dự án metro São Paulo, có mệnh đề mở đầu 'To alleviate congestion'."
+C,9,wbg_ar_2025:p50L,1388,para500:wbg_ar_2025:p50L:003,418,"• Program-for-Results Financing, which links the
+disbursement of funds to the achievement of
+predefined results.
+
+In fiscal 2025, we approved 69 Development Policy
+Financing operations, totaling $23.6 billion; 49 Programfor-Results operations, of which 10 were additional
+financing totaling $12.4 billion; and 314 Investment
+Project Financing operations, of which 108 were additional
+financing, totaling $44.8 billion.",1,Cùng chunk với B (C dùng lại chunk/vector của B): Đoạn phê duyệt FY2025 trọn vẹn nhưng chunk mở đầu bằng gạch đầu dòng cuối của danh sách mà thiếu câu dẫn.
+C,10,wbg_ar_2025:p65R,873,para500:wbg_ar_2025:p65R:003,383,"Zainab Ahmed, World Bank Group Executive Director and former Minister of Finance
+of Nigeria, noted that Nigeria was the first State to ratify the ICSID Convention and
+underscored the opportunity to provide technical assistance to State representatives and
+investors on important aspects to include in investment contracts, with the aim of improving
+dispute prevention and resolution.",2,Cùng chunk với B (C dùng lại chunk/vector của B): Câu trọn vẹn: ai phát biểu và nội dung; thiếu bối cảnh sự kiện nhưng ý tự hiểu được.

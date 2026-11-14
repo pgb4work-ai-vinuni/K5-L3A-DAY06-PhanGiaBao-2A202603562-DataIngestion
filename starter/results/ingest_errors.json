@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-11-14T04:22:51+00:00",
+  "flagged_units": 38,
+  "errors": [
+    {
+      "document_id": "wb_ar_2023",
+      "page": 2,
+      "page_id": "wb_ar_2023:p2",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 6,
+      "page_id": "wb_ar_2023:p6",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 8,
+      "page_id": "wb_ar_2023:p8",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 18,
+      "page_id": "wb_ar_2023:p18",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 48,
+      "page_id": "wb_ar_2023:p48",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 74,
+      "page_id": "wb_ar_2023:p74",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 78,
+      "page_id": "wb_ar_2023:p78",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 92,
+      "page_id": "wb_ar_2023:p92",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2023",
+      "page": 112,
+      "page_id": "wb_ar_2023:p112",
+      "error": "empty_text"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 2,
+      "page_id": "wb_ar_2024:p2L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 9,
+      "page_id": "wb_ar_2024:p9L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 24,
+      "page_id": "wb_ar_2024:p24L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 25,
+      "page_id": "wb_ar_2024:p25R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 27,
+      "page_id": "wb_ar_2024:p27R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 29,
+      "page_id": "wb_ar_2024:p29R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 31,
+      "page_id": "wb_ar_2024:p31R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wb_ar_2024",
+      "page": 36,
+      "page_id": "wb_ar_2024:p36L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 2,
+      "page_id": "wbg_ar_2025:p2L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 7,
+      "page_id": "wbg_ar_2025:p7L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 10,
+      "page_id": "wbg_ar_2025:p10R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 11,
+      "page_id": "wbg_ar_2025:p11R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 13,
+      "page_id": "wbg_ar_2025:p13R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 15,
+      "page_id": "wbg_ar_2025:p15R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 17,
+      "page_id": "wbg_ar_2025:p17R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 19,
+      "page_id": "wbg_ar_2025:p19R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 21,
+      "page_id": "wbg_ar_2025:p21R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 23,
+      "page_id": "wbg_ar_2025:p23L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 24,
+      "page_id": "wbg_ar_2025:p24L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 25,
+      "page_id": "wbg_ar_2025:p25R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 26,
+      "page_id": "wbg_ar_2025:p26R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 28,
+      "page_id": "wbg_ar_2025:p28L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 30,
+      "page_id": "wbg_ar_2025:p30L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 32,
+      "page_id": "wbg_ar_2025:p32R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 33,
+      "page_id": "wbg_ar_2025:p33R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 34,
+      "page_id": "wbg_ar_2025:p34L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 36,
+      "page_id": "wbg_ar_2025:p36R",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 38,
+      "page_id": "wbg_ar_2025:p38L",
+      "error": "image_only"
+    },
+    {
+      "document_id": "wbg_ar_2025",
+      "page": 40,
+      "page_id": "wbg_ar_2025:p40R",
+      "error": "image_only"
+    }
+  ],
+  "short_units": [
+    {
+      "page_id": "wb_ar_2023:p1",
+      "chars": 45
+    },
+    {
+      "page_id": "wb_ar_2023:p17",
+      "chars": 175
+    },
+    {
+      "page_id": "wb_ar_2024:p1",
+      "chars": 52
+    },
+    {
+      "page_id": "wb_ar_2024:p9R",
+      "chars": 17
+    },
+    {
+      "page_id": "wb_ar_2024:p24R",
+      "chars": 16
+    },
+    {
+      "page_id": "wb_ar_2024:p36R",
+      "chars": 11
+    },
+    {
+      "page_id": "wbg_ar_2025:p1",
+      "chars": 52
+    },
+    {
+      "page_id": "wbg_ar_2025:p6R",
+      "chars": 147
+    },
+    {
+      "page_id": "wbg_ar_2025:p8L",
+      "chars": 33
+    },
+    {
+      "page_id": "wbg_ar_2025:p42L",
+      "chars": 20
+    }
+  ],
+  "note": "image_only = full-page image without a text layer (no OCR applied); empty_text = no text and no image"
+}

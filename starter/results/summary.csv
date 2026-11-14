@@ -1,0 +1,10 @@
+strategy,split,n,hit_at_1,evidence_hit_at_3,filter_questions,filter_hit_at_3,filter_compliant,mean_query_ms
+A,all,22,13,19,5,4,,49.76
+A,dev,16,9,14,3,2,,48.15
+A,test,6,4,5,2,2,,54.06
+B,all,22,18,19,5,4,,51.58
+B,dev,16,12,13,3,2,,51.67
+B,test,6,6,6,2,2,,51.35
+C,all,22,19,20,5,5,5,49.87
+C,dev,16,13,14,3,3,3,52.19
+C,test,6,6,6,2,2,2,43.7

@@ -1,0 +1,353 @@
+strategy,question_id,question,filter_applied,expected_answer,gold_page,evidence_hit_at_3_auto,top1,top2,top3,grounding_0_2,reason
+A,t01,How many requests for inspection did the Inspection Panel receive during the fiscal year?,,"Seven requests for inspection; it registered three cases (Bolivia, Cameroon, India) in fiscal 2023.",wb_ar_2023:p95,1,"[wb_ar_2023:p95] The Inspection Panel consists of three members, including the Chairperson, who
+report directly to the Executive Directors. In fiscal 2023, the Panel received seven
+requests for inspection. It registered three cases from Bolivia, Cameroon, and India,
+and recommended investigations into projects in Bolivia and Cameroon. The investigation for Bolivia is in progress. The Panel also submitted an investigation report
+in fiscal 2023 to the World Bank’s Board for a case received from Togo. The Board
+dis","[wb_ar_2023:p94] plaints mechanism for people and communities who believe that they have been or are likely to be
+adversely affected by a Bank-funded project. It houses the Inspection Panel and the
+new Dispute Resolution Service. The Inspection Panel, which recently celebrated
+its 30th anniversary, was established in 1993 as the first independent accountability mechanism at an international financial institution and continues to receive and
+process complaints from affected communities and conduct its independent","[wb_ar_2023:p88] rkplace issues and for preventing and
+addressing misconduct. In fiscal 2023, it reviewed 168 allegations of misconduct
+and delivered ethics training and outreach to 8,113 staff. Through its advisory services, it also responds to staff requests for ethics advice on potential conflicts of
+interest or other compliance issues, on average within less than one business day. In
+fiscal 2023, 1,248 staff sought advice from the department. It has focused its efforts
+on promoting transparency around the ou",2,"Top-1 wb_ar_2023:p95 nêu rõ 'In fiscal 2023, the Panel received seven requests for inspection' và 3 case đã đăng ký → đủ để trả lời, truy được trang."
+A,t02,How many staff turned to Ethics and Internal Justice Services for help during the fiscal year?,,"More than 2,800 staff (fiscal 2024).",wb_ar_2024:p40L,1,"[wb_ar_2023:p88] These include Ombuds Services, the Respectful Workplace Advisors Program, Mediation Services, Peer Review
+Services, Performance Management Review, and the Race Equity Office. In fiscal
+2023, more than 1,100 staff turned to these services for help. The Internal Justice
+Services also delivered training and outreach to 5,827 staff.
+
+The Ethics and Business Conduct Department is another trusted resource for
+staff seeking guidance on compliance and workplace issues and for preventing and
+addressing m","[wb_ar_2023:p88] rkplace issues and for preventing and
+addressing misconduct. In fiscal 2023, it reviewed 168 allegations of misconduct
+and delivered ethics training and outreach to 8,113 staff. Through its advisory services, it also responds to staff requests for ethics advice on potential conflicts of
+interest or other compliance issues, on average within less than one business day. In
+fiscal 2023, 1,248 staff sought advice from the department. It has focused its efforts
+on promoting transparency around the ou","[wb_ar_2024:p40L] t adopted a new strategy that focuses on: educating
+staff on available resources; speed in resolving their
+issues; building confidence that the internal justice
+system is fair and just; and combating the fear of
+retaliation from using EIJ’s services. By providing
+staff with advice, guidance, training, and conflict
+resolution, EIJ reinforces a speak-up culture and positive
+work environment.
+
+In fiscal 2024, more than 2,800 staff turned to Ethics
+and Internal Justice Services for help. EIJ reviewe",1,"Evidence 2024 ('more than 2,800 staff') chỉ ở top-3; top-1 và top-2 là wb_ar_2023:p88 với số của năm 2023 (1,100 staff) → có bằng chứng nhưng lẫn số khác năm, dễ trả lời sai."
+A,t03,"Under the World Bank Accountability Mechanism, what happens to a complaint if the voluntary dispute resolution is declined or unresolved?",,The matter reverts to the Inspection Panel (IPN) for investigation.,wb_ar_2024:p42L,0,"[wb_ar_2023:p94] m affected communities and conduct its independent compliance investigations. The Dispute Resolution Service facilitates an independent
+and voluntary dispute resolution process between complainants and borrowers.
+The Accountability Mechanism Secretary and the Inspection Panel each report to
+the Board and operate independently of Bank management.","[wb_ar_2023:p94] plaints mechanism for people and communities who believe that they have been or are likely to be
+adversely affected by a Bank-funded project. It houses the Inspection Panel and the
+new Dispute Resolution Service. The Inspection Panel, which recently celebrated
+its 30th anniversary, was established in 1993 as the first independent accountability mechanism at an international financial institution and continues to receive and
+process complaints from affected communities and conduct its independent","[wb_ar_2023:p95] Board for a case received from Togo. The Board
+discussed investigation reports on Uganda and India, which were investigated by
+the Panel in previous fiscal years.
+
+The Dispute Resolution Service became operational in 2021. In fiscal 2023, the
+Dispute Resolution Service’s first-ever cases—one in Nepal and one in Uganda—
+reached agreement within the time frames allowed by the Board. Additionally, a case
+in Cameroon entered the dispute resolution process, while another case returned to
+the Inspecti",0,"Cả 3 chunk đều là bản 2023 (p94, p95): chỉ mô tả DRS là tự nguyện, không có câu 'declined or unresolved … reverts to the IPN'; câu ở p95 bị cắt ngay trước ý này."
+A,t04,What must an investor and a State do to have access to ICSID?,,"Both must consent to ICSID arbitration, conciliation, mediation or fact-finding (in a contract, a foreign investment law or an investment treaty).",wbg_ar_2025:p64L,1,"[wbg_ar_2025:p64L] investor and the State must consent to ICSID arbitration,
+conciliation, mediation, or fact-finding to have access to
+ICSID. They can do so in a contract, or through dispute
+resolution provisions in a foreign investment law or in an
+international investment agreement or treaty.
+
+KNOWLEDGE AND GLOBAL OUTREACH
+As part of its mandate to build confidence in the dispute
+resolution process and help foster favorable investment
+environments, ICSID supports the development of
+international investment law ","[wbg_ar_2025:p65R] tify the ICSID Convention and
+underscored the opportunity to provide technical assistance to State representatives and
+investors on important aspects to include in investment contracts, with the aim of improving
+dispute prevention and resolution.
+
+Aradhana Kumar-Capoor, Director and General Counsel of MIGA, pointed out how ICSID’s
+work complements MIGA’s efforts to de-risk projects and bolster investor confidence for
+cross-border investments.
+
+ICSID reached another milestone on August 8, 2024, b","[wbg_ar_2025:p63R] 
+(UNCITRAL) rules and other non-ICSID rules.
+
+During fiscal 2025, ICSID provided assistance and services
+to States and investors, administering 347 cases and
+organizing more than 200 hearings. Additionally, ICSID
+focused on enhancing its global outreach, fostering
+
+collaborations and partnerships, and continued to produce
+and disseminate knowledge on investment dispute
+resolution, including the amicable settlement of disputes.
+
+UPDATE ON ICSID MEMBERSHIP
+Membership in ICSID offers a stable frame",2,Top-1 wbg_ar_2025:p64L chứa đủ điều kiện (cả nhà đầu tư và Nhà nước phải đồng ý) và 3 cách thể hiện sự đồng ý.
+A,t05,What share of IFC projects that finished implementation in fiscal 2025 achieved at least a Satisfactory development impact rating?,,88 percent of the 141 projects completed in that year (94 percent of the commitment volume).,wbg_ar_2025:p56L,1,"[wbg_ar_2025:p56L] project’s implementation period. In fiscal 2025, 88 percent
+of the 141 projects that completed their implementation
+in that year, representing 94 percent of the corresponding
+commitment volume, achieved at least a “Satisfactory”
+development impact rating with an average score of 49.
+Reductions in impact scores during implementation have
+been primarily associated with the effect of worsening
+macroeconomic conditions and other external shocks
+affecting several of IFC’s countries of operation durin","[wbg_ar_2025:p55R] ts in the portfolio and
+tracks key development impact indicators to allow us
+to take corrective action when projects are off track. In
+fiscal 2025, the average portfolio score of 1,431 active
+projects is 48, slightly below the average of 50 at entry,
+indicating that most projects are delivering on expected
+development impacts during implementation. We also
+assess the development outcomes at the end of the","[wbg_ar_2025:p55R] ed as IFC has increasingly
+focused more on high-impact areas such as low-income
+countries, climate, small businesses, and other thematic
+priorities such as working with underserved and vulnerable
+populations. In fiscal 2025, IFC committed 281 investment
+projects with an average score of 58, 3 points higher than
+the previous fiscal year’s score and well above the score of
+49 in 2019, when AIMM was first introduced.
+
+IFC also monitors active projects in the portfolio and
+tracks key development imp",2,Top-1 wbg_ar_2025:p56L có 88% của 141 dự án và 94% khối lượng cam kết.
+A,t06,"By how much does Indonesia aim to cut greenhouse gas emissions by 2030, and how does international assistance change the target?",,"32 percent by 2030, or as much as 43 percent with international assistance.",wb_ar_2023:p31,1,"[wb_ar_2023:p31] land use practices that
+absorb more carbon than is emitted. This objective is part of Indonesia’s efforts to
+reduce greenhouse gas emissions by 32 percent—or as much as 43 percent with
+international assistance—by 2030. In addition to reducing emissions, sustainable
+forest management activities can also improve communities’ livelihoods.
+
+The Bank has supported Indonesia’s transition toward low-carbon, resilient, biodiverse, and prosperous landscapes since 2016 through the Sustainable Landscape
+Ma","[wb_ar_2023:p31] Spotlight
+
+Protecting forests and improving livelihoods in
+Indonesia
+
+In Indonesia, more than 40 percent of the country’s emissions result from deforestation and fires that release carbon into the atmosphere. But the undamaged
+trees and forests that remain help temper the damage by absorbing the carbon—
+effectively acting as a sink to drain carbon from the air. Indonesia wants to make its
+forests a net carbon sink by 2030 by fostering forest and land use practices that
+absorb more carbon than is","[wb_ar_2024:p31L] ne of five priorities under the World Bank
+Group’s Climate Change Action Plan for 2021–25. We
+also work with governments and the private sector to
+reduce emissions and in December 2023, we launched
+the Global Flaring and Methane Reduction Partnership,
+a $255 million fund to help developing countries cut
+carbon dioxide and methane emissions generated by the
+oil and gas industry.
+
+Infrastructure finance
+
+Infrastructure connects people with employment
+opportunities, promotes economic growth, and im",2,Top-1 wb_ar_2023:p31 có cả mục tiêu 32% và điều kiện 43% khi có hỗ trợ quốc tế.
+B,t01,How many requests for inspection did the Inspection Panel receive during the fiscal year?,,"Seven requests for inspection; it registered three cases (Bolivia, Cameroon, India) in fiscal 2023.",wb_ar_2023:p95,1,"[wb_ar_2023:p95] The Inspection Panel consists of three members, including the Chairperson, who
+report directly to the Executive Directors. In fiscal 2023, the Panel received seven
+requests for inspection. It registered three cases from Bolivia, Cameroon, and India,
+and recommended investigations into projects in Bolivia and Cameroon. The investigation for Bolivia is in progress. The Panel also submitted an investigation report
+in fiscal 2023 to the World Bank’s Board for a case received from Togo.","[wb_ar_2023:p94] The Inspection Panel, which recently celebrated
+its 30th anniversary, was established in 1993 as the first independent accountability mechanism at an international financial institution and continues to receive and
+process complaints from affected communities and conduct its independent compliance investigations. The Dispute Resolution Service facilitates an independent
+and voluntary dispute resolution process between complainants and borrowers.","[wb_ar_2024:p41R] the Board of Governors with an audit of accounts, an
+administrative budget, and the Bank’s annual report on
+fiscal year results.",2,"Top-1 wb_ar_2023:p95 có đáp án đầy đủ (seven requests, 3 case đã đăng ký)."
+B,t02,How many staff turned to Ethics and Internal Justice Services for help during the fiscal year?,,"More than 2,800 staff (fiscal 2024).",wb_ar_2024:p40L,1,"[wb_ar_2024:p40L] In fiscal 2024, more than 2,800 staff turned to Ethics
+and Internal Justice Services for help. EIJ reviewed
+191 allegations of misconduct; responded to 1,150
+staff requests for ethics advice on potential conflicts
+of interest or other compliance issues; received 282
+cases related to harassment, sexual harassment, or
+other inappropriate behaviors, and 29 cases related
+to racism or racial discrimination.","[wb_ar_2023:p88] The Ethics and Business Conduct Department is another trusted resource for
+staff seeking guidance on compliance and workplace issues and for preventing and
+addressing misconduct. In fiscal 2023, it reviewed 168 allegations of misconduct
+and delivered ethics training and outreach to 8,113 staff. Through its advisory services, it also responds to staff requests for ethics advice on potential conflicts of
+interest or other compliance issues, on average within less than one business day.","[wb_ar_2023:p88] Through the Internal Justice Services, staff have confidential channels to seek
+guidance on workplace issues and resolve conflicts. These include Ombuds Services, the Respectful Workplace Advisors Program, Mediation Services, Peer Review
+Services, Performance Management Review, and the Race Equity Office. In fiscal
+2023, more than 1,100 staff turned to these services for help. The Internal Justice
+Services also delivered training and outreach to 5,827 staff.",2,"Top-1 wb_ar_2024:p40L nêu 'In fiscal 2024, more than 2,800 staff…'; các chunk 2023 xếp sau và tự ghi rõ năm."
+B,t03,"Under the World Bank Accountability Mechanism, what happens to a complaint if the voluntary dispute resolution is declined or unresolved?",,The matter reverts to the Inspection Panel (IPN) for investigation.,wb_ar_2024:p42L,1,"[wb_ar_2024:p42L] The AM Secretary offers a voluntary
+dispute resolution process, handled by the DRS. If this
+is declined or unresolved, the matter reverts to the IPN
+for investigation.
+
+In fiscal 2024, the IPN received six Requests for
+Inspection and concluded an investigation of a case
+from Bolivia which, after Board discussions, led to
+a Board-approved Management Action Plan that","[wb_ar_2023:p94] For more information and the Independent Evaluation Group’s annual report,
+visit ieg.worldbankgroup.org.
+
+Accountability Mechanism
+
+The World Bank Accountability Mechanism is an independent complaints mechanism for people and communities who believe that they have been or are likely to be
+adversely affected by a Bank-funded project. It houses the Inspection Panel and the
+new Dispute Resolution Service.","[wbg_ar_2025:p43R] If the Board
+approves the IPN’s recommendation, the investigation is
+held in abeyance and the Head of DRS offers a voluntary
+dispute resolution process. If this is declined or unresolved,
+the IPN proceeds with the investigation. If the parties sign
+a dispute resolution agreement, the process is concluded.",2,"Top-1 wb_ar_2024:p42L chứa trọn câu điều kiện 'If this is declined or unresolved, the matter reverts to the IPN'; top-3 (2025:p43R) diễn đạt tương đương."
+B,t04,What must an investor and a State do to have access to ICSID?,,"Both must consent to ICSID arbitration, conciliation, mediation or fact-finding (in a contract, a foreign investment law or an investment treaty).",wbg_ar_2025:p64L,1,"[wbg_ar_2025:p64L] investor and the State must consent to ICSID arbitration,
+conciliation, mediation, or fact-finding to have access to
+ICSID. They can do so in a contract, or through dispute
+resolution provisions in a foreign investment law or in an
+international investment agreement or treaty.","[wbg_ar_2025:p64L] Visit icsid.worldbank.org/resources/publications
+to download and read all ICSID publications.
+
+ICSID also engages with State officials, legal practitioners,
+students, private sector members, and representatives
+of non-governmental organizations to build capacity
+on investment dispute prevention and settlement. This
+outreach program also aims to deepen understanding of
+ICSID’s mandate and services.","[wbg_ar_2025:p63R] ICSID offers an impartial and specialized framework for
+the resolution of disputes between States and foreign
+investors in a fair, efficient, and conclusive manner. ICSID
+is a unique institution, created by the Convention on the
+Settlement of Investment Disputes between States and
+Nationals of Other States. This multilateral agreement,
+also known as the ICSID Convention, was formulated in
+1965 by the Executive Directors of the World Bank.",2,Top-1 wbg_ar_2025:p64L là một chunk trọn đoạn chứa điều kiện đồng ý và cách thể hiện.
+B,t05,What share of IFC projects that finished implementation in fiscal 2025 achieved at least a Satisfactory development impact rating?,,88 percent of the 141 projects completed in that year (94 percent of the commitment volume).,wbg_ar_2025:p56L,1,"[wbg_ar_2025:p56L] project’s implementation period. In fiscal 2025, 88 percent
+of the 141 projects that completed their implementation
+in that year, representing 94 percent of the corresponding
+commitment volume, achieved at least a “Satisfactory”
+development impact rating with an average score of 49.","[wbg_ar_2025:p55R] IFC also monitors active projects in the portfolio and
+tracks key development impact indicators to allow us
+to take corrective action when projects are off track. In
+fiscal 2025, the average portfolio score of 1,431 active
+projects is 48, slightly below the average of 50 at entry,
+indicating that most projects are delivering on expected
+development impacts during implementation. We also
+assess the development outcomes at the end of the","[wbg_ar_2025:p55R] The average development impact scores for investment
+projects at entry has increased as IFC has increasingly
+focused more on high-impact areas such as low-income
+countries, climate, small businesses, and other thematic
+priorities such as working with underserved and vulnerable
+populations. In fiscal 2025, IFC committed 281 investment
+projects with an average score of 58, 3 points higher than
+the previous fiscal year’s score and well above the score of
+49 in 2019, when AIMM was first introduced.",2,"Top-1 wbg_ar_2025:p56L có đủ 88%, 141 dự án, 94% khối lượng."
+B,t06,"By how much does Indonesia aim to cut greenhouse gas emissions by 2030, and how does international assistance change the target?",,"32 percent by 2030, or as much as 43 percent with international assistance.",wb_ar_2023:p31,1,"[wb_ar_2023:p31] This objective is part of Indonesia’s efforts to
+reduce greenhouse gas emissions by 32 percent—or as much as 43 percent with
+international assistance—by 2030. In addition to reducing emissions, sustainable
+forest management activities can also improve communities’ livelihoods.","[wb_ar_2023:p31] In Indonesia, more than 40 percent of the country’s emissions result from deforestation and fires that release carbon into the atmosphere. But the undamaged
+trees and forests that remain help temper the damage by absorbing the carbon—
+effectively acting as a sink to drain carbon from the air. Indonesia wants to make its
+forests a net carbon sink by 2030 by fostering forest and land use practices that
+absorb more carbon than is emitted.","[wb_ar_2024:p23L] We are working with countries across the region to
+help them achieve their emissions-reduction goals and
+increase the share of renewables in their energy mix.
+In Bangladesh, we committed $300 million to improve
+the efficiency of gas distribution and reduce methane
+emissions along the natural gas value chain. In Pakistan,
+we committed $1 billion to support the completion
+of a large hydropower project as part of our broader
+support to renewable energy generation.",2,Top-1 wb_ar_2023:p31 là câu hoàn chỉnh có cả 32% và 43% kèm điều kiện.
+C,t01,How many requests for inspection did the Inspection Panel receive during the fiscal year?,year=2023,"Seven requests for inspection; it registered three cases (Bolivia, Cameroon, India) in fiscal 2023.",wb_ar_2023:p95,1,"[wb_ar_2023:p95] The Inspection Panel consists of three members, including the Chairperson, who
+report directly to the Executive Directors. In fiscal 2023, the Panel received seven
+requests for inspection. It registered three cases from Bolivia, Cameroon, and India,
+and recommended investigations into projects in Bolivia and Cameroon. The investigation for Bolivia is in progress. The Panel also submitted an investigation report
+in fiscal 2023 to the World Bank’s Board for a case received from Togo.","[wb_ar_2023:p94] The Inspection Panel, which recently celebrated
+its 30th anniversary, was established in 1993 as the first independent accountability mechanism at an international financial institution and continues to receive and
+process complaints from affected communities and conduct its independent compliance investigations. The Dispute Resolution Service facilitates an independent
+and voluntary dispute resolution process between complainants and borrowers.","[wb_ar_2023:p88] In
+fiscal 2023, 1,248 staff sought advice from the department. It has focused its efforts
+on promoting transparency around the outcomes of its reviews of misconduct
+and conducts in-depth reviews of high-risk or recurring cases to help close gaps in
+controls. The department’s Anti-Harassment Coordinator addresses allegations of
+sexual and other forms of harassment.",2,Lọc year=2023: cả 3 chunk thuộc 2023; top-1 p95 có đáp án đầy đủ.
+C,t02,How many staff turned to Ethics and Internal Justice Services for help during the fiscal year?,year=2024,"More than 2,800 staff (fiscal 2024).",wb_ar_2024:p40L,1,"[wb_ar_2024:p40L] In fiscal 2024, more than 2,800 staff turned to Ethics
+and Internal Justice Services for help. EIJ reviewed
+191 allegations of misconduct; responded to 1,150
+staff requests for ethics advice on potential conflicts
+of interest or other compliance issues; received 282
+cases related to harassment, sexual harassment, or
+other inappropriate behaviors, and 29 cases related
+to racism or racial discrimination.",[wb_ar_2024:p40L] Ethics and Internal Justice Services,"[wb_ar_2024:p46L] In fiscal 2024, 75 countries were eligible for IDA
+assistance.3 New IDA lending commitments for fiscal
+2024 amounted to $31.2 billion for 235 operations, of
+which eight were IBRD and IDA blended operations.
+These commitments included $23.1 billion in
+credits and $8.1 billion in grants. In addition, three
+projects for $550 million and three subprojects for
+$19.4 million were approved for support from the
+IDA20 IDA‐IFC‐MIGA Private Sector Window (PSW)
+during the fiscal year.",2,"Lọc year=2024: top-1 p40L có '>2,800 staff'; không còn chunk 2023 gây nhiễu như A/B."
+C,t03,"Under the World Bank Accountability Mechanism, what happens to a complaint if the voluntary dispute resolution is declined or unresolved?",,The matter reverts to the Inspection Panel (IPN) for investigation.,wb_ar_2024:p42L,1,"[wb_ar_2024:p42L] The AM Secretary offers a voluntary
+dispute resolution process, handled by the DRS. If this
+is declined or unresolved, the matter reverts to the IPN
+for investigation.
+
+In fiscal 2024, the IPN received six Requests for
+Inspection and concluded an investigation of a case
+from Bolivia which, after Board discussions, led to
+a Board-approved Management Action Plan that","[wb_ar_2023:p94] For more information and the Independent Evaluation Group’s annual report,
+visit ieg.worldbankgroup.org.
+
+Accountability Mechanism
+
+The World Bank Accountability Mechanism is an independent complaints mechanism for people and communities who believe that they have been or are likely to be
+adversely affected by a Bank-funded project. It houses the Inspection Panel and the
+new Dispute Resolution Service.","[wbg_ar_2025:p43R] If the Board
+approves the IPN’s recommendation, the investigation is
+held in abeyance and the Head of DRS offers a voluntary
+dispute resolution process. If this is declined or unresolved,
+the IPN proceeds with the investigation. If the parties sign
+a dispute resolution agreement, the process is concluded.",2,Không có filter → giống B: top-1 wb_ar_2024:p42L có trọn câu điều kiện.
+C,t04,What must an investor and a State do to have access to ICSID?,,"Both must consent to ICSID arbitration, conciliation, mediation or fact-finding (in a contract, a foreign investment law or an investment treaty).",wbg_ar_2025:p64L,1,"[wbg_ar_2025:p64L] investor and the State must consent to ICSID arbitration,
+conciliation, mediation, or fact-finding to have access to
+ICSID. They can do so in a contract, or through dispute
+resolution provisions in a foreign investment law or in an
+international investment agreement or treaty.","[wbg_ar_2025:p64L] Visit icsid.worldbank.org/resources/publications
+to download and read all ICSID publications.
+
+ICSID also engages with State officials, legal practitioners,
+students, private sector members, and representatives
+of non-governmental organizations to build capacity
+on investment dispute prevention and settlement. This
+outreach program also aims to deepen understanding of
+ICSID’s mandate and services.","[wbg_ar_2025:p63R] ICSID offers an impartial and specialized framework for
+the resolution of disputes between States and foreign
+investors in a fair, efficient, and conclusive manner. ICSID
+is a unique institution, created by the Convention on the
+Settlement of Investment Disputes between States and
+Nationals of Other States. This multilateral agreement,
+also known as the ICSID Convention, was formulated in
+1965 by the Executive Directors of the World Bank.",2,Không có filter → giống B: top-1 p64L đủ điều kiện.
+C,t05,What share of IFC projects that finished implementation in fiscal 2025 achieved at least a Satisfactory development impact rating?,,88 percent of the 141 projects completed in that year (94 percent of the commitment volume).,wbg_ar_2025:p56L,1,"[wbg_ar_2025:p56L] project’s implementation period. In fiscal 2025, 88 percent
+of the 141 projects that completed their implementation
+in that year, representing 94 percent of the corresponding
+commitment volume, achieved at least a “Satisfactory”
+development impact rating with an average score of 49.","[wbg_ar_2025:p55R] IFC also monitors active projects in the portfolio and
+tracks key development impact indicators to allow us
+to take corrective action when projects are off track. In
+fiscal 2025, the average portfolio score of 1,431 active
+projects is 48, slightly below the average of 50 at entry,
+indicating that most projects are delivering on expected
+development impacts during implementation. We also
+assess the development outcomes at the end of the","[wbg_ar_2025:p55R] The average development impact scores for investment
+projects at entry has increased as IFC has increasingly
+focused more on high-impact areas such as low-income
+countries, climate, small businesses, and other thematic
+priorities such as working with underserved and vulnerable
+populations. In fiscal 2025, IFC committed 281 investment
+projects with an average score of 58, 3 points higher than
+the previous fiscal year’s score and well above the score of
+49 in 2019, when AIMM was first introduced.",2,Không có filter → giống B: top-1 p56L đủ số liệu.
+C,t06,"By how much does Indonesia aim to cut greenhouse gas emissions by 2030, and how does international assistance change the target?",,"32 percent by 2030, or as much as 43 percent with international assistance.",wb_ar_2023:p31,1,"[wb_ar_2023:p31] This objective is part of Indonesia’s efforts to
+reduce greenhouse gas emissions by 32 percent—or as much as 43 percent with
+international assistance—by 2030. In addition to reducing emissions, sustainable
+forest management activities can also improve communities’ livelihoods.","[wb_ar_2023:p31] In Indonesia, more than 40 percent of the country’s emissions result from deforestation and fires that release carbon into the atmosphere. But the undamaged
+trees and forests that remain help temper the damage by absorbing the carbon—
+effectively acting as a sink to drain carbon from the air. Indonesia wants to make its
+forests a net carbon sink by 2030 by fostering forest and land use practices that
+absorb more carbon than is emitted.","[wb_ar_2024:p23L] We are working with countries across the region to
+help them achieve their emissions-reduction goals and
+increase the share of renewables in their energy mix.
+In Bangladesh, we committed $300 million to improve
+the efficiency of gas distribution and reduce methane
+emissions along the natural gas value chain. In Pakistan,
+we committed $1 billion to support the completion
+of a large hydropower project as part of our broader
+support to renewable energy generation.",2,Không có filter → giống B: top-1 p31 đủ cả hai mục tiêu.
